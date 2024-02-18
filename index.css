@@ -1,0 +1,36 @@
+/* Write your code here. */
+.notificatonCard {
+  height: 10vh;
+  color: white;
+  width: 40vw;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.info {
+  background-color: #0b69ff;
+}
+.imageandpara {
+  display: flex;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.success {
+  background-color: #2dca73;
+}
+.war {
+  background-color: #ffb800;
+}
+.error {
+  background-color: red;
+}
+.icon {
+  height: 3vh;
+  margin: 1vh;
+  width: 3vh;
+}
